@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/roll-dice/static/css/main.27e33d38.chunk.css",
+    "main.js": "/roll-dice/static/js/main.471dce98.chunk.js",
+    "main.js.map": "/roll-dice/static/js/main.471dce98.chunk.js.map",
+    "runtime~main.js": "/roll-dice/static/js/runtime~main.a30d1dd8.js",
+    "runtime~main.js.map": "/roll-dice/static/js/runtime~main.a30d1dd8.js.map",
+    "static/js/2.7cddf10a.chunk.js": "/roll-dice/static/js/2.7cddf10a.chunk.js",
+    "static/js/2.7cddf10a.chunk.js.map": "/roll-dice/static/js/2.7cddf10a.chunk.js.map",
+    "index.html": "/roll-dice/index.html",
+    "precache-manifest.780a9fc1e77746c5b9d610c92befff75.js": "/roll-dice/precache-manifest.780a9fc1e77746c5b9d610c92befff75.js",
+    "service-worker.js": "/roll-dice/service-worker.js",
+    "static/css/main.27e33d38.chunk.css.map": "/roll-dice/static/css/main.27e33d38.chunk.css.map",
+    "static/media/logo.svg": "/roll-dice/static/media/logo.5d5d9eef.svg"
+  }
+}
